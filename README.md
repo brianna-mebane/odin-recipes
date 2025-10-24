@@ -13,7 +13,7 @@ Recipe and image credit: [Pat Bernitt](https://www.allrecipes.com/cream-cheese-a
 Recipe credit: [Karen](www.allrecipes.com/recipe/22146/smores/) from Allrecipes  
 Image credit: [Mikki Speid](https://unsplash.com/@kaylaspeid) from Unsplash
 
-### Classic S'mores
+### One-Minute Breakfast Burrito
 
-Recipe credit: [Unnamed Allrecipes Member](https://www.allrecipes.com/recipe/135063/minute-breakfast-burrito/) 
+Recipe credit: [Unnamed Allrecipes Member](https://www.allrecipes.com/recipe/135063/minute-breakfast-burrito)  
 Image credit: [Qi Ai](https://www.instagram.com/qiai.photography) from Allrecipes
