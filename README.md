@@ -10,5 +10,5 @@ Recipe and image credit: [Pat Bernitt](https://www.allrecipes.com/cream-cheese-a
 
 ### Classic S'mores
 
-Recipe credit: [Karen](www.allrecipes.com/recipe/22146/smores/) from Allrecipes
+Recipe credit: [Karen](www.allrecipes.com/recipe/22146/smores/) from Allrecipes  
 Image credit: [Mikki Speid](https://unsplash.com/@kaylaspeid) from Unsplash
