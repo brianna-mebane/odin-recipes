@@ -1,0 +1,25 @@
+body {
+    max-width: 90%;
+    font-family: Garamond, "Times New Roman", sans-serif;
+    background-color: #f9dbbd;
+    color: #a53860;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin-left: 127px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 12px;
+    font-size: 18px;
+}
